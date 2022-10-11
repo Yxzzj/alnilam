@@ -1,4 +1,4 @@
-package pres.jeremy.alnilam.config;
+package pres.jeremy.alnilam.config.shiro;
 
 import com.baomidou.mybatisplus.core.injector.DefaultSqlInjector;
 import com.baomidou.mybatisplus.core.injector.ISqlInjector;

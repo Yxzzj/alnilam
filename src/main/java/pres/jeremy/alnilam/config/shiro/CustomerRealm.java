@@ -1,4 +1,4 @@
-package pres.jeremy.alnilam.config;
+package pres.jeremy.alnilam.config.shiro;
 
 import com.baomidou.mybatisplus.core.toolkit.Wrappers;
 import org.apache.shiro.SecurityUtils;
